@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>我的 Hugo 个人博客</title>
+    <title>jiemo blog</title>
     <link>https://jiemo123.github.io/</link>
     <description>This is my new Hugo FixIt site</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 05 Nov 2022 01:01:29 &#43;0800</lastBuildDate>
       <atom:link href="https://jiemo123.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-  <title>第一篇博客</title>
+  <title>GitHub 修改 host 流畅访问</title>
   <link>https://jiemo123.github.io/posts/first_post/</link>
   <pubDate>Sat, 05 Nov 2022 01:01:29 &#43;0800</pubDate>
-  <author>作者</author>
+  <author>jiemo</author>
   <guid>https://jiemo123.github.io/posts/first_post/</guid>
-  <description><![CDATA[[params] FixIt 主题版本 version = &ldquo;0.2.X&rdquo; # 例如：&ldquo;0.2.X&rdquo;, &ldquo;0.2.15&rdquo;, &ldquo;v0.2.15&rdquo; 等 网站描述 description = &ldquo;这是我的全新 Hugo FixIt 网站&rdquo; 网站关键]]></description>
+  <description><![CDATA[我们可以通过修改本机Hosts文件，主动建立域名IP的映射关系，访问到这些域名时直接使用Hosts指定的IP，绕过DNS解析。 1.访问 https://www.ipaddress.com/ ，查]]></description>
 </item>
 </channel>
 </rss>
